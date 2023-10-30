@@ -1,0 +1,49 @@
+/* Estilo para o body (cor de fundo) */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #3d8b37; /* Verde mais escuro */
+    color: #333; /* Cor do texto mais escura */
+}
+
+/* Estilo para o cabeçalho (fundo e cor do texto) */
+header {
+    background-color: #2d6f2a; /* Verde escuro mais intenso */
+    color: #fff; /* Texto branco */
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilo para a navegação (fundo e cor do texto) */
+nav ul {
+    list-style: none;
+    text-align: center;
+    background-color: #3d8b37; /* Verde mais escuro */
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333; /* Cor do texto mais escura */
+}
+
+/* Estilo para as seções (fundo) */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #85bf73; /* Verde claro */
+}
+
+/* Estilo para os projetos (fundo e borda) */
+.project {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #3d8b37; /* Borda verde mais escura */
+    background-color: #fff; /* Fundo branco */
+}
